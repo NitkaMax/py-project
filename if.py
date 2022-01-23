@@ -1,4 +1,4 @@
-number=27
+number=44
 guess=int(input('Введите целое число: '))
 
 if guess==number:
